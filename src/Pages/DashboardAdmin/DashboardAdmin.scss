@@ -1,0 +1,436 @@
+.container-dashboard
+{
+    width: 1515px;
+    height: 902px;
+}
+
+.navbar-left 
+{
+    width: 70px;
+    height: 902px;
+    background-color: rgba(13, 40, 166, 1);
+    position: absolute;
+    
+}
+
+.navbar-left-logo
+{
+    width: 70px;
+    height: 58px; 
+}
+
+.navbar-left-logo1
+{
+    background-color: rgba(207, 212, 237, 1);
+    width: 34px;
+    height: 34px;
+    margin: 18px 18px;
+}
+
+
+.navbar-left-home
+{
+    width: 70px;
+    height: 64px;  
+    background-color: #FFFFFF4D;
+    padding-top: 0.5px;
+}
+
+.navbar-left-home1
+{
+   
+    width: 24px;
+    height: 24px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.dashboard-text
+{
+    padding-top: 7px;
+    font-size: x-small;
+    padding-left: 7px;
+    font-weight: 700;
+    color: white;
+}
+
+.navbar-left-cars
+{
+    width: 70px;
+    height: 64px;   
+}
+
+.navbar-left-cars1
+{
+
+    width: 24px;
+    height: 24px;
+    margin-top: 15px;
+    margin-left: 21px;
+}
+
+.cars-text
+{
+    padding-top: 3px;
+    font-size: small;
+    margin-left: 20px;
+    font-weight: 500;
+    color: white;
+}
+
+.navbar-top
+{
+    height: 75px;
+    width: 1519px;
+    /* background-color: rgb(200, 206, 206); */
+}
+
+.navbar-top-logo
+{
+    width: 220px;
+    height: 70px;
+    position: absolute;
+}
+
+/* .navbar-top-logo1
+{
+    background-image: url(/src/Asset/Img/Dashboard/navbar_top/Rectangle_62.png);
+    width: 100px;
+    height: 34px;
+    margin-top: 0px;
+    margin-left: 100px;
+} */
+
+.navbar-top-logo1
+{
+    padding-left: 125px;
+
+}
+
+.navbar-top-menu
+{
+    width: 18px;
+    height: 30px;
+    padding-left: 390px;
+    padding-top: 25px;
+
+}
+
+
+.d-flex
+{
+    width: 510px;
+    height: 60px;
+    margin-left: 1000px;
+    padding-top: 15px;
+    display: flex;
+}
+
+.profileLogo
+{
+    margin-left: 20px;
+}
+
+.username 
+{
+    margin-left: 15px;
+    padding-top: 10px;
+    width: 170px;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.dashboard-main 
+{
+    display: flex;
+    width: 1519px;
+    height: 832px;
+}
+
+.dashboard-bar
+{
+    width: 290px;
+    height: 830px;
+    /* background-color: rgb(243, 241, 237); */
+    margin-left: 70px;
+}
+
+.dashboard-title
+{
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    color: rgba(138, 138, 138, 1);
+    font-size: x-large;
+    
+}
+
+.dashboard-menu
+{
+    padding-left: 30px;
+    padding-top: 13px;
+    width: 290px;
+    height: 60px;
+    background-color: #CFD4ED;
+
+}
+
+.dashboard-menu1
+{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.dashboard-content ul 
+{
+    display: flex;
+    padding-top: 20px;
+    padding-left: 30px;
+    list-style: none;
+}
+
+.arrow-right
+{
+    width: 4px;
+    height: 8px;
+    margin-top: 8px;
+    margin-left: 20px;
+}
+
+.dashboard-link2
+{
+    padding-left: 20px;
+    font-weight: 50;
+}
+
+.dashboard-content-title
+{
+    padding-left: 30px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+
+.list-order
+{
+    display: flex;
+    width: 150px;
+    height: 30px;
+    padding-left: 32px;
+    margin-top: 25px;
+}
+
+.list-order2
+{
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+.table-content
+{
+    padding-top: 25px;
+    padding-left: 32px;
+}
+
+.table-content1
+{
+    width: 1100px;
+    height: 494px;
+}
+
+.pagination-content1
+{
+    margin-top: 30px;
+    margin-left: 450px;
+}
+
+
+
+
+
+
+
+
+
+
+// .dashboard-main 
+// {
+//     display: flex;
+//     width: 1519px;
+//     height: 832px;
+// }
+
+// .navbar-left 
+// {
+//     width: 70px;
+//     height: 902px;
+//     background-color: rgba(13, 40, 166, 1);
+//     position: absolute;
+    
+// }
+
+// .navbar-left-logo
+// {
+//     width: 70px;
+//     height: 58px; 
+// }
+
+// .navbar-left-logo1
+// {
+//     background-color: rgba(207, 212, 237, 1);
+//     width: 34px;
+//     height: 34px;
+//     margin: 18px 18px;
+// }
+
+
+// .navbar-left-home
+// {
+//     width: 70px;
+//     height: 64px;  
+//     background-color: #FFFFFF4D;
+//     padding-top: 0.5px;
+// }
+
+// .navbar-left-home1
+// {
+   
+//     width: 24px;
+//     height: 24px;
+//     margin-top: 10px;
+//     margin-left: 20px;
+// }
+
+// .dashboard-text
+// {
+//     padding-top: 7px;
+//     font-size: x-small;
+//     padding-left: 7px;
+//     font-weight: 700;
+//     color: white;
+// }
+
+// .navbar-left-cars
+// {
+//     width: 70px;
+//     height: 64px;   
+// }
+
+// .navbar-left-cars1
+// {
+
+//     width: 24px;
+//     height: 24px;
+//     margin-top: 15px;
+//     margin-left: 21px;
+// }
+
+// .cars-text
+// {
+//     padding-top: 3px;
+//     font-size: small;
+//     margin-left: 20px;
+//     font-weight: 500;
+//     color: white;
+// }
+
+// .dashboard-bar
+// {
+//     width: 290px;
+//     height: 830px;
+//     /* background-color: rgb(243, 241, 237); */
+//     margin-left: 70px;
+// }
+
+// .dashboard-title
+// {
+//     padding-top: 30px;
+//     padding-left: 30px;
+//     padding-bottom: 20px;
+//     color: rgba(138, 138, 138, 1);
+//     font-size: x-large;
+    
+// }
+
+// .dashboard-menu
+// {
+//     padding-left: 30px;
+//     padding-top: 13px;
+//     width: 290px;
+//     height: 60px;
+//     background-color: #CFD4ED;
+
+// }
+
+// .dashboard-menu1
+// {
+//     text-decoration: none;
+//     color: black;
+//     font-weight: bolder;
+//     font-size: 20px;
+//     margin-top: 50px;
+// }
+
+// .dashboard-content ul 
+// {
+//     display: flex;
+//     padding-top: 20px;
+//     padding-left: 30px;
+//     list-style: none;
+// }
+
+// .arrow-right
+// {
+//     width: 4px;
+//     height: 8px;
+//     margin-top: 8px;
+//     margin-left: 20px;
+// }
+
+// .dashboard-link2
+// {
+//     padding-left: 20px;
+//     font-weight: 50;
+// }
+
+// .dashboard-content-title
+// {
+//     padding-left: 30px;
+//     padding-top: 10px;
+//     font-weight: bold;
+// }
+
+// .list-order
+// {
+//     display: flex;
+//     width: 150px;
+//     height: 30px;
+//     padding-left: 32px;
+//     margin-top: 25px;
+// }
+
+// .list-order2
+// {
+//     padding-left: 20px;
+//     font-weight: bold;
+// }
+
+// .table-content
+// {
+//     padding-top: 25px;
+//     padding-left: 32px;
+// }
+
+// .table-content1
+// {
+//     width: 1100px;
+//     height: 494px;
+// }
+
+// .pagination-content1
+// {
+//     margin-top: 30px;
+//     margin-left: 450px;
+// }

@@ -1,0 +1,46 @@
+.container-pencarian {
+}
+
+.main {
+  padding-left: 120px;
+  display: flex;
+  background-image: url"../../Asset/Img/General/Rectangle\ 75.svg";
+}
+
+.main-left {
+  padding-top: 60px;
+}
+
+.main-left p {
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.main-left h1 {
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 150%;
+}
+
+.main-right {
+  background-image: url(../../Asset/Img/Main/img_car.svg);
+  width: 50%;
+  height: 407px;
+  margin-left: 170px;
+  background-repeat: no-repeat;
+  position: static;
+}
+
+.btn-sewa1 {
+  text-decoration: none;
+  color: #fff;
+  background-color: rgba(92, 184, 95, 1);
+  padding: 10px 12px;
+  border-style: none;
+  border-radius: 3px;
+}

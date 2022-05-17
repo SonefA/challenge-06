@@ -1,0 +1,57 @@
+.container-navbar
+{
+    background-image: url("../../Img/General/Rectangle\ 75.svg");
+    width: 1528px;
+    height: 97px;
+    display: flex;
+    /* position: static; */
+    padding-top: 20px;
+}
+
+.logo
+{
+    margin-left: 75px;
+    padding-top: 25px;
+}
+
+.container-navbar ul 
+{
+    display: flex;
+    padding-left: 610px;
+    
+}
+
+.container-navbar ul li
+{
+    list-style: none;
+    padding-right: 45px;
+    padding-top: 15px;
+    
+}
+
+.container-navbar ul li a:hover 
+{
+    text-decoration: underline;
+    color: #0D28A6;
+}
+
+.container-navbar ul li a
+{
+    text-decoration: none;
+    color: #000000;
+
+}
+
+.btn-register
+{
+    text-decoration: none;
+    background-color: #5CB85F;
+    color:  #FFFFFF;
+    padding: 10px 20px;
+    height: 44px;
+    font-family: 'Helvetica';
+    border-radius: 2px;
+    margin-top: 5px;
+    margin-right: 100px;
+}
+
